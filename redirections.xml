@@ -4,7 +4,6 @@
     <Exclude Copy="0">AppData\Local\Microsoft\Teams\meeting-addin\Cache</Exclude>
     <Exclude Copy="0">AppData\Local\Google\Chrome\User Data\Default\Cache</Exclude>
     <Exclude Copy="0">AppData\Local\Microsoft\Edge\User Data\Default\Cache</Exclude>
-    <Exclude Copy="0">AppData\Local\Temp</Exclude>
     <Exclude Copy="0">AppData\Local\Microsoft\Windows\INetCache</Exclude>
     <Exclude Copy="0">AppData\Local\Microsoft\Teams\Logs</Exclude>
     <Exclude Copy="0">AppData\Local\Packages\*\LocalCache\Microsoft\Teams\Logs</Exclude>
